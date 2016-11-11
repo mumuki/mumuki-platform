@@ -9,7 +9,7 @@
 
 # ![EEUU](http://mumuki.io/static/eeuu.png) English
 
-Hi there! To begin with, we really want to thank you for your contribution, the feedback of our community is the only way to improve the platform. In order to ..., we need you to pay attention to some points:
+Hi there! We really want to thank you for the contribution you are about to make, the feedback of our community is the only way to improve the platform. In order to better understand each other, we need you to pay attention to some points:
 
 1. Please, check that your issue has not already been reported. You can help yourself with the search box at the top of [this page](https://github.com/mumuki/mumuki-teacher-tools/issues).
 2. If you are reporting an error, try to tell us all the steps that lead you to that state.
