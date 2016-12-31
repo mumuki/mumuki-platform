@@ -1,4 +1,4 @@
-![Mumuki logo](http://mumuki.io/static/banner-horizontal-gradient.png)
+![Mumuki logo](http://mumuki.io/static/mumuki-banner-horizontal-gradient.png)
 # The Mumuki Platform
 
 Hi there! You are at the root repository of the **Mumuki Platform**, the _libre_ open-source platform of the [Mumuki Project](http://mumuki.org). This is the entry point for everyone who wants to report an issue, suggest an enhancement or start a discussion about any aspect of the platform. We accept issues both in English and Spanish, please check our [contributing guidelines](https://github.com/mumuki/mumuki-platform/blob/master/CONTRIBUTING.md) for further information.
@@ -7,10 +7,10 @@ The platform is a web-based coding tool that provides automatic formative assess
 
 Wanna learn more about the software? Visit one of the main repositories:
 
-* [The laboratory](https://github.com/mumuki/mumuki-atheneum) - where students practice and receive feedback, both from the machine and from their teachers.
-* [The classroom](https://github.com/mumuki/mumuki-classroom) - where teachers track students' progress and send them feedback.
-* [The bibliotheca](https://github.com/mumuki/mumuki-bibliotheca) - where all the content is created, edited and stored.
-* [The office](https://github.com/mumuki/mumuki-office) - where users permissions are managed.
+* [The laboratory :microscope:](https://github.com/mumuki/mumuki-atheneum) - where students practice and receive feedback, both from the machine and from their teachers.
+* [The classroom :school:](https://github.com/mumuki/mumuki-classroom) - where teachers track students' progress and send them feedback.
+* [The bibliotheca :books:](https://github.com/mumuki/mumuki-bibliotheca) - where all the content is created, edited and stored.
+* [The office :clipboard:](https://github.com/mumuki/mumuki-office) - where users permissions are managed.
 
 ### Extra documentation (in Spanish)
 
