@@ -11,7 +11,7 @@ The platform is a web-based coding tool that provides automatic formative assess
 
 Wanna learn more about the software? Visit one of the main repositories:
 
-* [The laboratory :microscope:](https://github.com/mumuki/mumuki-atheneum) - where students practice and receive feedback, both from the machine and from their teachers.
+* [The laboratory :microscope:](https://github.com/mumuki/mumuki-laboratory) - where students practice and receive feedback, both from the machine and from their teachers.
 * [The classroom :school:](https://github.com/mumuki/mumuki-classroom) - where teachers track students' progress and send them feedback.
 * [The bibliotheca :books:](https://github.com/mumuki/mumuki-bibliotheca) - where all the content is created, edited and stored.
 * [The office :clipboard:](https://github.com/mumuki/mumuki-office) - where users permissions are managed.
