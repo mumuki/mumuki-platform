@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/mumuki/mumuki-platform.png?label=ready&title=Ready)](https://waffle.io/mumuki/mumuki-platform)
 ![Mumuki logo](http://mumuki.io/static/mumuki-banner-horizontal-gradient.png)
 # The Mumuki Platform
 
