@@ -1,5 +1,8 @@
 [![Stories in Ready](https://badge.waffle.io/mumuki/mumuki-platform.png?label=ready&title=Ready)](https://waffle.io/mumuki/mumuki-platform)
+
+
 ![Mumuki logo](http://mumuki.io/static/mumuki-banner-horizontal-gradient.png)
+
 # The Mumuki Platform
 
 Hi there! You are at the root repository of the **Mumuki Platform**, the _libre_ open-source platform of the [Mumuki Project](http://mumuki.org). This is the entry point for everyone who wants to report an issue, suggest an enhancement or start a discussion about any aspect of the platform. We accept issues both in English and Spanish, please check our [contributing guidelines](https://github.com/mumuki/mumuki-platform/blob/master/CONTRIBUTING.md) for further information.
