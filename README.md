@@ -1,3 +1,5 @@
+:warning: This Repository is deprecated :warning: See https://mumuki.github.io
+
 [![Stories in Ready](https://badge.waffle.io/mumuki/mumuki-platform.png?label=ready&title=Ready)](https://waffle.io/mumuki/mumuki-platform)
 
 
@@ -20,3 +22,5 @@ Wanna learn more about the software? Visit one of the main repositories:
 
 * [Guía de Estilo](https://docs.google.com/document/d/1WLdeODzZgUQ43y5o_z8DGflczhiCwoqYnQw4y51oqmw) (Style Guide): some guidelines and recommendations on how to write exercises for the Platform.
 * [Mumuki para Docentes](https://docs.google.com/document/d/1TP-jiZCcMbSRXJajxMK0zmdrDEmx07zE5FNEiIvVT5g) (Teacher Tools Overview): instructions and FAQ for teachers using the Platform.
+
+
